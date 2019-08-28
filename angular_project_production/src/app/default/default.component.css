@@ -1,0 +1,23 @@
+
+.main{
+    background-image: url(https://images.pexels.com/photos/2825033/pexels-photo-2825033.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    height: 100vh;
+    width: 100vw;
+    color: white;
+    position: absolute;
+}
+
+.main_inner{
+    padding-top: 15px;
+    position: relative;
+    top: 32%;
+    background-color: black;
+    opacity: .7;
+    width: 400px;
+    height: 100px;
+    margin: auto;
+    left: 35px;
+
+}
+
+

@@ -1,0 +1,18 @@
+<div class="main">
+    <h2>This Page Has a Reactive Form</h2>
+    <div class="container main_inner">
+        
+        <br>
+    <label>
+        Name:
+        <input type="text" [formControl]="name">
+    </label>
+    <p>
+        {{ name.value }}
+    </p>
+
+    <p>
+        <button class="btn btn-dark submission" (click)="updateName()">Update Name</button>
+    </p>
+</div>
+</div>
