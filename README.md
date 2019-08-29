@@ -35,6 +35,7 @@ PART 3 [SECTION 1](https://github.com/gwyche/Homeworks-for-TTS-Select/tree/maste
 
 
 ### BOOTSTRAP & JQUERY ASSIGNMENT
+*[Live Site](https://gwyche.github.io/bootstrap_jquery_practice/)*
 
 [LINK](https://github.com/gwyche/Homeworks-for-TTS-Select/tree/master/BootStrap%20and%20JQuery)
 
