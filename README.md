@@ -42,6 +42,7 @@ PART 3 [SECTION 1](https://github.com/gwyche/Homeworks-for-TTS-Select/tree/maste
 [INSTRUCTIONS](https://github.com/gwyche/Homeworks-for-TTS-Select/blob/master/BootStrap%20and%20JQuery/bootstrap_project_homework.pdf)
 
 ### CSS ASSIGNMENT
+*[Live Site](https://gwyche.github.io/css_practice/)*
 
 [LINK](https://github.com/gwyche/Homeworks-for-TTS-Select/tree/master/CSS_Homework)
 
