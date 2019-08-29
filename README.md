@@ -7,7 +7,8 @@ Hello friend. You've stumbled upon the readme for my coding bootcamp git reposit
 
 
 ### ANGULAR PROJECT 
-*[Live Project](https://gwyche.github.io/angular_demonstration/)*
+*[Live Complete Project](https://gwyche.github.io/angular_demonstration/)*
+
 
 [PART 1](https://github.com/gwyche/Homeworks-for-TTS-Select/tree/master/AngularHWs1-3andHero/hw1)
 
