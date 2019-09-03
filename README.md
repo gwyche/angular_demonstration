@@ -34,6 +34,10 @@ PART 3 [SECTION 1](https://github.com/gwyche/Homeworks-for-TTS-Select/tree/maste
 
 [INSTRUCTIONS](https://github.com/gwyche/Homeworks-for-TTS-Select/blob/master/AngularHWs1-3andHero/hw3/Angular_Services_HW.pdf)
 
+### JAVA CASINO GAME PROJECT
+[LINK](https://github.com/gwyche/casino_game)
+[README](https://github.com/gwyche/casino_game/blob/master/README.md)
+
 
 ### BOOTSTRAP & JQUERY ASSIGNMENT
 *[Live Site](https://gwyche.github.io/bootstrap_jquery_practice/)*
