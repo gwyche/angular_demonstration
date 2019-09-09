@@ -1,5 +1,6 @@
-#### MY OTHER COOL CODING STUFF ####
-[RADIO ASTRONOMY WITH MACHINE LEARNING](https://github.com/gwyche/nn_pulsar_classifier) | [MACHINE LEARNING BLOG](https://gwyche.wordpress.com) | [SPRING GROUP PROJECT](https://github.com/ttsbluetesla/spring_dealership_project)
+
+#### MY OTHER COOL CODING STUFF
+[RADIO ASTRONOMY WITH MACHINE LEARNING](https://github.com/gwyche/nn_pulsar_classifier) | [JAVA GENERAL PURPOSE MACHINE LEARNING CLASSIFIER](https://github.com/gwyche/deep_NN_general_purpose_V1) | [MACHINE LEARNING BLOG](https://gwyche.wordpress.com) | [SPRING GROUP PROJECT FOR TECH TALENT SOUTH](https://github.com/ttsbluetesla/spring_dealership_project)
 
 Hello friend. You've stumbled upon the readme for my coding bootcamp git repository. The work below contains examples of javascript, CSS, Bootstrap, HTML, and JQuery code I submitted to satisfy the requirements for my full-stack development bootcamp, along with in-class practice javascript exercises. The large Angular web application assignment at the top is a survey of the steps involved in the creation of a minimum viable Angular project. The links above connect to Java and VBA coding work I have done in the past, either for coding bootcamps or in the process of cultivating my machine learning hobby. In one of the links, I blog extensively about the custom neural networks I construct from first principles, along with other machine learning primitives. If you go to my profile page, you will see older JS, HTML/CSS/Bootstrap assignments I completed for a previous bootcamp.
 
