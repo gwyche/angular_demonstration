@@ -35,7 +35,7 @@ PART 3 [SECTION 1](https://github.com/gwyche/Homeworks-for-TTS-Select/tree/maste
 [INSTRUCTIONS](https://github.com/gwyche/Homeworks-for-TTS-Select/blob/master/AngularHWs1-3andHero/hw3/Angular_Services_HW.pdf)
 
 ### JAVA CASINO GAME
-*[JAR File](https://github.com/gwyche/casino_game/blob/master/out/artifacts/DiceGameV1_jar2/DiceGameV1.jar)*
+*[JAR File](https://github.com/gwyche/casino_game/blob/master/out/artifacts/DiceGameV1_jar6/DiceGameV1.jar)*
 
 [LINK](https://github.com/gwyche/casino_game)
 
